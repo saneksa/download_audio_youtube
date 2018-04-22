@@ -7,7 +7,6 @@ Downloading and compressing audio from youtube videos
 ```sh
 sudo apt-get install ffmpeg
 
-
 pip3 install youtube_dl
 ```
 
